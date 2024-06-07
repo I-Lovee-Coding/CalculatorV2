@@ -1,0 +1,43 @@
+button {
+    height: 80px;
+    width: 80px;
+    background: #CD5334;
+    margin-top: 4px;
+    color: #2E282A;
+    border: none;
+    border-radius: 20%;
+    margin-right: 1px;
+}
+
+.backspace-button {
+    height: 50px;
+    width: 40px;
+    margin-bottom: 4px;
+    z-index: 1;
+    background: #EDB88B;
+    cursor: pointer;
+}
+
+#textarea {
+    height: 50px;
+    background: #EDB88B;
+    width: 300px;
+    font-size: 35px;
+}
+
+.container {
+    background-color: #17BEBB;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+}
+
+.m {
+    margin-left: 4px;
+}
+
+.m2 {
+    margin-bottom: 4px;
+}
